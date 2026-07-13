@@ -1,0 +1,17 @@
+{
+  "中年男": {
+    "wav": "/root/siton-pub/production_practice/CS/assignment_C/common_data/audio/1070_IWW_ANG_XX.wav",
+    "text": "",
+    "spk_id": "中年男"
+  },
+  "中年": {
+    "wav": "/root/siton-tmp/lmy/C5_TTS/outputs/speaker_clone/speaker_1070_IWW_ANG_XX.wav",
+    "text": "",
+    "spk_id": "中年"
+  },
+  "speaker1070": {
+    "wav": "/root/siton-tmp/lmy/C5_TTS/outputs/speaker_clone/speaker_1070_IWW_ANG_XX.wav",
+    "text": "",
+    "spk_id": "speaker1070"
+  }
+}
